@@ -12,10 +12,7 @@
         android:theme="@style/Theme.CleaArchitecureBoilerPlate"
         tools:targetApi="31">
         <activity
-            android:name=".features.sample_features.SampleFeatureActivity"
-            android:exported="false" />
-        <activity
-            android:name=".features.sample_features_2.SampleFeature2Activity"
+            android:name=".DetailActivity"
             android:exported="false" />
         <activity
             android:name=".features.dashboard.MainActivity"
